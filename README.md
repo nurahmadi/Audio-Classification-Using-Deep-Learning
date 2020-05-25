@@ -1,4 +1,4 @@
-# Audio Classification Using Deep-Learning
+# Audio Classification Using Deep Learning
 This project describes step-by-step procedure for implementing audio classification using deep learning, which is broken down into the following parts:
 
 1. Data Exploration and Visualisation
